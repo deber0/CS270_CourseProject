@@ -1,0 +1,9 @@
+# Ignore IDE specific files
+.vscode
+
+# Ignore platform specific files
+*.DS_Store
+
+# Ignore Word Files
+*.docx
+*.doc
