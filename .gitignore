@@ -1,8 +1,0 @@
-# Ignore operating system files
-.DS_Store
-
-# Ignore word documents
-*.docx
-*.doc
-~$*.docx
-~$*.doc
